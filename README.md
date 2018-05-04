@@ -1,5 +1,5 @@
 # BB1035
-This a repository for WPI BB1035 Intro to Biotechnology B Term 2016
+This a repository for WPI BB1035 Intro to Biotechnology A Term 2016
 
 
 Here you will find the following Folders:
